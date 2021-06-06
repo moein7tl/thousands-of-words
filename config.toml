@@ -1,4 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
+theme = "mediumish-gohugo-theme"
 title = "My New Hugo Site"
 publishDir = "docs"
