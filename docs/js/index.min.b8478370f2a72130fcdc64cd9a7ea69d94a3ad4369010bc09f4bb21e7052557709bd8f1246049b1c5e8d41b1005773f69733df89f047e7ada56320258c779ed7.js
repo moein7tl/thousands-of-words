@@ -1,6 +1,6 @@
 (function(){
   const doc = document.documentElement;
-  const parentURL = 'https://moein7tl.github.io/';
+  const parentURL = 'https://thousands-of-words.com/';
 
   function createEl(element='div') {
     return document.createElement(element);
