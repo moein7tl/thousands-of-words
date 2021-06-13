@@ -3,10 +3,27 @@ languageCode = "en-us"
 theme = "newsroom"
 title = "Thousands of words"
 publishDir = "docs"
-copyright = ""
-author = "Weru"
+author = "Thousands of words"
+canonifyurls = true
+paginate = 6
+
+[markup]
+  [markup.goldmark.renderer]
+    hardWraps = false
+    unsafe = true # change to true to enable inclusion of rawHTML and math functions
+    xhtml = false
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+    tabWidth = 2
 
 
 [params]
   tagline = "asdasd"
-  description = "Each image can have as many as thousands of words to say. thousands-of-words.com is the collection of images made of texts that can be read by zooming in."
+  footer = "Each figure can have as many as thousands of words to say."
+  description = "Each figure can have as many as thousands of words to say. thousands-of-words.com is the collection of images made of texts that can be read by zooming in."
