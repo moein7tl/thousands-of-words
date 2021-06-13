@@ -1,5 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "https://thousands-of-words.com/"
 languageCode = "en-us"
-theme = "mediumish-gohugo-theme"
-title = "My New Hugo Site"
+theme = "newsroom"
+title = "Thousands of words"
 publishDir = "docs"
+copyright = ""
+author = "Weru"
+
+
+[params]
+  tagline = "asdasd"
+  description = "Each image can have as many as thousands of words to say. thousands-of-words.com is the collection of images made of texts that can be read by zooming in."
