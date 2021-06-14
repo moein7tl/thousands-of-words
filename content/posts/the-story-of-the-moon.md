@@ -35,7 +35,7 @@ __The story of the moon__ is an artwork that is built literally using the transc
 The original file is a __390-megapixel (22550x17300)__ image that allows you to zoom in all over it and read the whole transcribed communication.
 
 ### __Downloading the image__
-The file size of the image is 89MB, therefore what you're seeing in this page is its thumbnail. To download the original file you may use the following [IPFS QmHash](https://explore.ipld.io/#/explore/QmbQae5qEt98KceRxZ8FT7SHv8v9o3X7NtFpie8tMeKZYL) or the direct HTTP link.
+The file size of the image is 89MB, therefore what you're seeing in this page is its thumbnail. To download the original file you may use the following [IPFS QmHash](https://explore.ipld.io/#/explore/QmbQae5qEt98KceRxZ8FT7SHv8v9o3X7NtFpie8tMeKZYL) or [the direct HTTP link](https://thousands-of-words.com/images/the-story-of-the-moon/the-story-of-the-moon.png).
 
 ```
 QmbQae5qEt98KceRxZ8FT7SHv8v9o3X7NtFpie8tMeKZYL
