@@ -3,6 +3,11 @@ title: "The Story of the Moon"
 date: 2021-06-07T08:09:10+01:00
 draft: false
 image: "the-story-of-the-moon/header.png"
+description: "The story of the moon 390-megapixel image is built by the transcription of the Technical Air-to-Ground Voice Transmission (GOSS NET 1) from the Apollo 11 mission."
+tags: [
+"Nasa",
+"Apollo 11"
+]
 ---
 > Roger. Clock. (Neil A. Armstrong)
 > 
