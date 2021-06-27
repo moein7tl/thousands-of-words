@@ -40,8 +40,12 @@ __The story of the moon__ is an artwork that is built literally using the transc
 
 The original file is a __390-megapixel (22550x17300)__ image that allows you to zoom in all over it and read the whole transcribed communication.
 
-### __Downloading the image__
-The file size of the image is 89MB, therefore what you're seeing in this page is its thumbnail. To download the original file you may use the following [IPFS QmHash](https://explore.ipld.io/#/explore/QmbQae5qEt98KceRxZ8FT7SHv8v9o3X7NtFpie8tMeKZYL) or [the direct HTTP link](https://thousands-of-words.com/images/the-story-of-the-moon/the-story-of-the-moon.png).
+<br/>
+<iframe allowfullscreen="true" src="https://www.easyzoom.com/embed/5e0219e063644bdeb9d234b3a9799e1a" width="100%" height="600"></iframe>
+<br/><br/>
+
+### __Download the image__
+The original file is stored in IPFS and Github. To download the it you may use the following [IPFS QmHash](https://explore.ipld.io/#/explore/QmbQae5qEt98KceRxZ8FT7SHv8v9o3X7NtFpie8tMeKZYL) or [the direct HTTP link](https://thousands-of-words.com/images/the-story-of-the-moon/the-story-of-the-moon.png).
 
 ```
 QmbQae5qEt98KceRxZ8FT7SHv8v9o3X7NtFpie8tMeKZYL
@@ -49,8 +53,3 @@ QmbQae5qEt98KceRxZ8FT7SHv8v9o3X7NtFpie8tMeKZYL
 
 ### __NFT__
 This work is listed as an NFT on OpenSea. To place your bid and own it, visit [its page on OpenSea](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/106892719673497678594724363091417094593829731719525004663483234776731757838337).
-
----
-
-### Thumbnail
-![asd](/images/the-story-of-the-moon/thumbnail.png)
